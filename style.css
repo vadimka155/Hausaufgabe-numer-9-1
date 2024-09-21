@@ -1,0 +1,13 @@
+:root{
+--rot: rgb(255, 0, 0);
+}
+
+
+
+.link{color:var(--rot);}
+
+
+
+.page-first{
+    font-size: 24px;
+  }
