@@ -2,13 +2,11 @@
 --rot: rgb(255, 0, 0);
 }
 
-
-
 a[href^="https"] {
-  color: red;
+  color: var(--rot);
 }
 
 
-p {
+p{
   font-size: 24px;
 }
